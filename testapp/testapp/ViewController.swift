@@ -23,5 +23,8 @@ class ViewController: UIViewController {
         print("yeon22")
     }
     
+    func jiyoung() {
+        print("여러분~~ 우리 깃마스터해요~~~~")
+    }
 }
 
