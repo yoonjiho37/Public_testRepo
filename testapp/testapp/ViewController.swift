@@ -19,5 +19,9 @@ class ViewController: UIViewController {
         print("test2")
     }
     
+    func yeon2(){
+        print("yeon22")
+    }
+    
 }
 
