@@ -15,5 +15,9 @@ class ViewController: UIViewController {
     }
 
 
+    func test1() {
+        print("test1")
+    }
+    
 }
 
